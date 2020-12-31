@@ -1,0 +1,9 @@
+
+*.dvi
+*.log
+*.gz
+*.aux
+*.tex
+*.pdf
+*.jpeg
+.DS_Store
