@@ -7,8 +7,10 @@ described in [1].
 Example outputs include:
  - __Bifurcation Diagrams__
   <img src="figures/supercritical_pitchfork_bifurcation.png" width="75%" />
+
  - __Stability Diagrams__
  <img src="figures/stability_diagram_supercritical.png" width="75%" />
+ 
  - __Phase Diagrams__
   <img src="figures/out_of_touch_saddle.png" width="75%" />
 
