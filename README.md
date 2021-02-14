@@ -6,14 +6,16 @@ described in [1].
 
 Example outputs include:
  - __Bifurcation Diagrams__
-  <img src="figures/supercritical_pitchfork_bifurcation.png" width="50%" />
+  <img src="figures/supercritical_pitchfork_bifurcation.png" width="25%" />
 
  - __Stability Diagrams__
- <img src="figures/stability_diagram_supercritical.png" width="50%" />
+ <img src="figures/stability_diagram_supercritical.png" width="25%" />
 
  - __Phase Diagrams__
-  <img src="figures/out_of_touch_saddle.png" width="50%" />
+  <img src="figures/lotka_volterra.png" width="25%" />
 
+- __Energy Surfaces__
+   <img src="figures/energy_surface.png" width="25%" />
 
 
 __More to come!!__
