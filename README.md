@@ -15,7 +15,7 @@ Example outputs include:
   <img src="figures/lotka_volterra.png" width="50%" />
 
 - __Energy Surfaces__
-   <img src="figures/energy_surface.png" width="50%" />
+   <img src="figures/energy_surface.png" width="75%" />
 
 
 __More to come!!__
